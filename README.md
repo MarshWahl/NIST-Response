@@ -1,5 +1,6 @@
 # NIST-Response
-Applying the NIST Cybersecurity Framework to analyze and respond to a security incident.
+Applying the NIST Cybersecurity Framework to analyze and respond to a hypothetical security incident.
+Situation is described within "Scenario". My NIST CSF response is described within "Incident Response Analysis".
 
 ## **Scenario**
 You are a cybersecurity analyst working for a multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses. Your organization recently experienced a DDoS attack, which compromised the internal network for two hours until it was resolved.
